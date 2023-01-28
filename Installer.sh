@@ -21,7 +21,7 @@ sleep 4
 clear
 figlet -c Iniciando
 sleep 2
-wget --no-check-certificate -qO InstallNET.sh "https://archive.org/download/cartecinstaler/InstallNET.sh" && bash InstallNET.sh -dd "https://archive.org/download/winsrv2016-data-x64-us-efi.vhd_202301/winsrv2016-data-x64-us-efi.vhd.gz"
+wget --no-check-certificate -qO InstallNET.sh "https://raw.githubusercontent.com/jeanlazo/Carsist/main/InstallNET.sh" && bash InstallNET.sh -dd "https://archive.org/download/winsrv2016-data-x64-us-efi.vhd_202301/winsrv2016-data-x64-us-efi.vhd.gz"
         break;;
        
 
