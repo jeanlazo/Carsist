@@ -1,9 +1,10 @@
 
 #EXTM3U
 #EXTINF: -1, tvg-log="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo-latina-2014.png", Peru:Latina
-https://www.youtube.com/live/tA1sNfZQvFs
+http://51.222.43.170:8001/live/cartec260/nnjHpnxuDDcB/263448.m3u8
+#EXTINF:-1,FHD | Azteca Uno menos -1
+http://51.222.43.170:8001/live/cartec260/nnjHpnxuDDcB/301429.m3u8
 
-#EXTINF: -1, tvg-log="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo-latina-2014.png", Peru:bestv
-https://bestcableperu.com.pe/tv3.html
+
 
 
