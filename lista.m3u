@@ -1,6 +1,9 @@
+
 #EXTM3U
-#EXTINF: -1,  Perú: Latina
-https://mdstrm.com/live-stream/5ce7109c7398b977dc0744cd
-#EXTM3U
-#EXTINF: -1, tvg-log="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo-latina-2014.png", Perú: Latina
+#EXTINF: -1, tvg-log="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo-latina-2014.png", Peru:Latina
 https://www.youtube.com/live/tA1sNfZQvFs
+
+#EXTINF: -1, tvg-log="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo-latina-2014.png", Peru:bestv
+https://bestcableperu.com.pe/tv3.html
+
+
